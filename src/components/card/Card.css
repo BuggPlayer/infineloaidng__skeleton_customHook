@@ -1,0 +1,14 @@
+.card_wrapper {
+  /* background-color: gray; */
+  margin: 10px;
+justify-content: center;
+display: flex;
+  width: 90%;
+  align-items: center;
+}
+.card {
+  width: 60%;
+  /* display: inline; */
+  border: 2px solid red;
+  padding: 2rem;
+}
